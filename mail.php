@@ -17,4 +17,4 @@ header("Location: http://aristocratenterprises.com");
 } else {
 echo "There has been an error sending your comments. Please try later.";
 }
-php>
+?>
